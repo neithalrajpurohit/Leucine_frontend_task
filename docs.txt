@@ -1,0 +1,9 @@
+All Libraries used to bild this project
+
+1. React Router Dom                 ->  For Routing
+2. React-Redux & Reduxjs/toolkit    -> For State Management
+3. axios                            -> For Making Http request
+4. tailwindcss / DaisyUI            -> For Styling
+5. Framer Motion                    -> For Adding Animation
+6. React Icons                      -> For Displaying Icons
+7. React Loading Skeleton           -> For Showing Loading Placeholders
