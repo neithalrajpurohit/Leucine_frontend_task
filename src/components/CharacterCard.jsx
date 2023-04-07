@@ -32,12 +32,10 @@ const CharacterCard = (props) => {
             className="w-[440px] relative z-10 cursor-pointer mb-20"
             onClick={() => {
                 handleShowModal(otherProps);
-            }}
-        >
+            }}>
             <motion.div
                 layoutId={id}
-                className="h-[40vh] overflow-hidden rounded-3xl shadow-2xl"
-            >
+                className="h-[40vh] overflow-hidden rounded-3xl shadow-2xl">
                 <img
                     src={`${thumbnail.path}.${thumbnail.extension}`}
                     alt="photo"
